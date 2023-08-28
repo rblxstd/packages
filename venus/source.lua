@@ -2946,7 +2946,7 @@ function library:Load(options)
             Transparency = 0,
             Visible = #self.tabs == 0,
             Parent = tabholder,
-            Size = UDim2.new(1, -16, 1, -16),
+            Size = UDim2.new(1, -19, 1, -19),
             Position = UDim2.new(0, 8, 0, 8)
         })
 
