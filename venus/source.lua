@@ -2833,7 +2833,7 @@ function library:Load(options)
     utility.create("Text", {
         Text = name,
         Font = Drawing.Fonts.Plex,
-        Size = 20,
+        Size = 16,
         Position = UDim2.new(0, 6, 0, 4),
         Theme = "Text",
         ZIndex = 4,
